@@ -1,0 +1,10 @@
+.counter {
+  text-align: center;
+  padding: 2rem;
+}
+
+.counter h1 {
+  font-size: 2rem;
+  color: inherit;
+  opacity: 0.8;
+}
